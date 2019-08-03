@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
-nav  {
+nav > a {
   background-color: gray;
+}
+
+img {
+  margin: 0
 }
