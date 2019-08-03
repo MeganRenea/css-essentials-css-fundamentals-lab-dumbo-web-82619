@@ -6,9 +6,8 @@ body {
 
 header {
   text-align: center;
-  background-color: gray
 }
 
-header + a {
+header > a {
   background-color: : gray;
 }
